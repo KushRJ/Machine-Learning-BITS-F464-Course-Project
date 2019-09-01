@@ -1,0 +1,4 @@
+Group Members:
+2015B3A70749G: Parth Thacker: DecisionTree and RandomForest implementation.
+2015B3A70405G: Archit Bhargava : NaiveBayes and AdaBoost implementation.
+2017A3Ps0425G: Kush Jain : LogisticRegression and Stacking implementation
